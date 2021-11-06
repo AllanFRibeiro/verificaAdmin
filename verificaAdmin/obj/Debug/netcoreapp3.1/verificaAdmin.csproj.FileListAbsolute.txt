@@ -1,0 +1,13 @@
+C:\Imersao_Logica\verificaAdmin\verificaAdmin\bin\Debug\netcoreapp3.1\verificaAdmin.exe
+C:\Imersao_Logica\verificaAdmin\verificaAdmin\bin\Debug\netcoreapp3.1\verificaAdmin.deps.json
+C:\Imersao_Logica\verificaAdmin\verificaAdmin\bin\Debug\netcoreapp3.1\verificaAdmin.runtimeconfig.json
+C:\Imersao_Logica\verificaAdmin\verificaAdmin\bin\Debug\netcoreapp3.1\verificaAdmin.runtimeconfig.dev.json
+C:\Imersao_Logica\verificaAdmin\verificaAdmin\bin\Debug\netcoreapp3.1\verificaAdmin.dll
+C:\Imersao_Logica\verificaAdmin\verificaAdmin\bin\Debug\netcoreapp3.1\verificaAdmin.pdb
+C:\Imersao_Logica\verificaAdmin\verificaAdmin\obj\Debug\netcoreapp3.1\verificaAdmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Imersao_Logica\verificaAdmin\verificaAdmin\obj\Debug\netcoreapp3.1\verificaAdmin.AssemblyInfoInputs.cache
+C:\Imersao_Logica\verificaAdmin\verificaAdmin\obj\Debug\netcoreapp3.1\verificaAdmin.AssemblyInfo.cs
+C:\Imersao_Logica\verificaAdmin\verificaAdmin\obj\Debug\netcoreapp3.1\verificaAdmin.csproj.CoreCompileInputs.cache
+C:\Imersao_Logica\verificaAdmin\verificaAdmin\obj\Debug\netcoreapp3.1\verificaAdmin.dll
+C:\Imersao_Logica\verificaAdmin\verificaAdmin\obj\Debug\netcoreapp3.1\verificaAdmin.pdb
+C:\Imersao_Logica\verificaAdmin\verificaAdmin\obj\Debug\netcoreapp3.1\verificaAdmin.genruntimeconfig.cache
